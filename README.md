@@ -1,2 +1,0 @@
-# srivacrypt
-crypt profile
